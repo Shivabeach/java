@@ -1,0 +1,33 @@
+{
+  "name": "java",
+  "version": "1.0.0",
+  "description": "Grid site",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shivabeach/java.git"
+  },
+  "author": "Shivabeach <mrwilson1@comcast.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.26.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.4.0",
+    "eslint-plugin-promise": "^6.1.1"
+  },
+  "bugs": {
+    "url": "https://github.com/Shivabeach/java/issues"
+  },
+  "homepage": "https://github.com/Shivabeach/java#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "practice"
+  ],
+  "dependencies": {
+    "color": "^4.2.3"
+  }
+}
